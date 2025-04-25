@@ -1,0 +1,39 @@
+# Environment
+venv/
+.env
+.env.local
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+
+# Vector database data
+vector_data/
+
+# Logs
+logs/
+*.log
+
+# Langfuse
+.langfuse
+
+# Jupyter notebooks
+.ipynb_checkpoints 
+
+/data/*
