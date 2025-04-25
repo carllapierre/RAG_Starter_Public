@@ -1,6 +1,6 @@
 # Simple RAG Implementation with Langchain
 
-This project provides a simple Retrieval Augmented Generation (RAG) implementation using LangChain/LangGraph, Pinecone, and OpenAI. It includes a Streamlit chat interface that supports conversation threads.
+This project provides a simple Retrieval Augmented Generation (RAG) implementation using LangChain/LangGraph, Langfuse, Pinecone, and OpenAI. It includes a Streamlit chat interface that supports conversation threads.
 
 ## Features
 
@@ -17,6 +17,7 @@ This project provides a simple Retrieval Augmented Generation (RAG) implementati
 
 - Python 3.9+
 - OpenAI API key
+- Langfuse API key
 - Pinecone instance (cloud or local)
 
 ### Environment Setup
